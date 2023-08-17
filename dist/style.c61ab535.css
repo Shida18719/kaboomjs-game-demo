@@ -1,0 +1,12 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  #mycanvas {
+    border: 5px solid blue;
+    border-radius: 10px;
+  }
+
+/*# sourceMappingURL=/style.c61ab535.css.map */
