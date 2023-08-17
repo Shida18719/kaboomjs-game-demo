@@ -5442,7 +5442,7 @@ exports.default = mo;
 var _kaboom = _interopRequireDefault(require("kaboom"));
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 (0, _kaboom.default)();
-add([text("hello"), pos(120, 80)]);
+add([text("Hello"), pos(120, 80)]);
 },{"kaboom":"node_modules/kaboom/dist/kaboom.mjs"}],"../../home/gitpod/.nvm/versions/node/v20.5.1/lib/node_modules/parcel-bundler/src/builtins/hmr-runtime.js":[function(require,module,exports) {
 var global = arguments[3];
 var OVERLAY_ID = '__parcel__error__overlay__';
@@ -5468,7 +5468,7 @@ var parent = module.bundle.parent;
 if ((!parent || !parent.isParcelRequire) && typeof WebSocket !== 'undefined') {
   var hostname = "" || location.hostname;
   var protocol = location.protocol === 'https:' ? 'wss' : 'ws';
-  var ws = new WebSocket(protocol + '://' + hostname + ':' + "34815" + '/');
+  var ws = new WebSocket(protocol + '://' + hostname + ':' + "36255" + '/');
   ws.onmessage = function (event) {
     checkedAssets = {};
     assetsToAccept = [];

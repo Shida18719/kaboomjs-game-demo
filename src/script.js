@@ -3,6 +3,6 @@ import kaboom from "kaboom";
 kaboom();
 
 add([
-    text("hello"),
+    text("Hello"),
     pos(120, 80),
 ]);
